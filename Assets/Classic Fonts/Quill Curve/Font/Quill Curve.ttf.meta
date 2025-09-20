@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: f84aa453ce449e14e993d93df25fe0ad
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Quill Curve
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53539
+  packageName: Classic Fonts
+  packageVersion: 1.0
+  assetPath: Assets/Classic Fonts/Quill Curve/Font/Quill Curve.ttf
+  uploadId: 468860

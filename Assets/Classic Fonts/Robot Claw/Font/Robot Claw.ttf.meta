@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b6256ccd1bbece3489696dec3f217f64
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Robot Claw
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53539
+  packageName: Classic Fonts
+  packageVersion: 1.0
+  assetPath: Assets/Classic Fonts/Robot Claw/Font/Robot Claw.ttf
+  uploadId: 468860

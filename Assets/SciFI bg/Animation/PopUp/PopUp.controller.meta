@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bf826a9275198e4886f49a93c71a9f3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300221
+  packageName: Scfi UI-GAME UI BACKGROUNDS
+  packageVersion: 1.0
+  assetPath: Assets/SciFI bg/Animation/PopUp/PopUp.controller
+  uploadId: 702087

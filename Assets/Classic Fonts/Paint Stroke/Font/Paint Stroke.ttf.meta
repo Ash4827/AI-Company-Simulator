@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 12f16af1cbd750348bda43df833fae00
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GraffitiPaintBrush
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53539
+  packageName: Classic Fonts
+  packageVersion: 1.0
+  assetPath: Assets/Classic Fonts/Paint Stroke/Font/Paint Stroke.ttf
+  uploadId: 468860

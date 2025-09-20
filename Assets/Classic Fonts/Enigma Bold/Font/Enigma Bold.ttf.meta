@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 4ec754036da11e44495c9df03117a775
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Enigma Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53539
+  packageName: Classic Fonts
+  packageVersion: 1.0
+  assetPath: Assets/Classic Fonts/Enigma Bold/Font/Enigma Bold.ttf
+  uploadId: 468860

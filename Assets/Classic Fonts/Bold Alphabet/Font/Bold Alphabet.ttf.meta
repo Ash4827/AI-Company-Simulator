@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b38881b40c0835247b3a85e6ad36bfa2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53539
+  packageName: Classic Fonts
+  packageVersion: 1.0
+  assetPath: Assets/Classic Fonts/Bold Alphabet/Font/Bold Alphabet.ttf
+  uploadId: 468860
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bold Alphabet
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
